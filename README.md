@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Statistics Calculations
+A small react app which computes mean, median and mode of a JSON, on specific properties in an object, with  efficient and optimised utility functions, with reusable components.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
